@@ -7,3 +7,5 @@ Random: https://en.wikipedia.org/wiki/Coprime_integers#:~:text=In%20a%20sense%20
 Arctan: https://en.wikipedia.org/wiki/Machin-like_formula
 
 The proggram also compares them using a graph plotting the percent error.
+
+Created On: Thursday, November 10, 2022, 6:13:09 PM
