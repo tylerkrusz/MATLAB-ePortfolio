@@ -7,4 +7,4 @@ x = [8 10];
 y = [2 -2];
 And will produce a line with the equation y = ((2*(x-10))/-2)+((-2*(x-8))/2) = -2x+18
 
-Last Modified: Thursday, May 18, 2023, 2:09:50 PM
+Created: Tuesday, March 21, 2023, 7:40:39 PM
