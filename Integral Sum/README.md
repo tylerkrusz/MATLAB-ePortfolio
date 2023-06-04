@@ -1,2 +1,2 @@
 # MATLAB-Integral-Sum
-Used to calulate the Rieman Sum of a integral.
+Used to calulate the Riemann Sum of a integral.
