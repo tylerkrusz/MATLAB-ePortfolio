@@ -1,0 +1,19 @@
+clear
+clc
+format long G
+startTime = datetime('now');
+row = 6.5e4;
+%row = 6.506e3;
+col = row;
+random = rand(row, col);            
+disp("Outputing")
+%writematrix(random,"Good_Luck.xlsx") 
+sum = sum(random, 'all');
+disp(sum)
+count = row * col;
+disp(count)
+average = mean(random, 'all');
+disp(average)
+endTime = datetime('now');
+totalTime = between(startTime, endTime);
+disp(totalTime)
