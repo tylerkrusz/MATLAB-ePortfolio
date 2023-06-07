@@ -1,0 +1,19 @@
+clear
+clc
+clf
+close all
+format long
+
+syms f(x)
+f(x) = ((75*x)-x^3 - 125);
+dxfunc = diff(f, x);
+
+disp(dxfunc)
+x_n = 5;
+disp(dxfunc(x_n))
+newton = @(x) (x_n - (f(x_n) / dxfunc(x_n)));
+n = 1000;
+for i = 1:n
+    x_n = newton(x_n);
+end
+disp(x_n)
