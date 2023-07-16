@@ -1,4 +1,4 @@
-# MATLAB-Simpsons-Rule
+# MATLAB-Simpson's-Rule
 Uses Simpsons Rule to approximate a Integral
 
 Version 1:\
