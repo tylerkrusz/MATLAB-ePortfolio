@@ -1,5 +1,5 @@
 # MATLAB-Simpson's-Rule
-Uses Simpsons Rule to approximate a Integral
+Uses Simpson's Rule to approximate a Integral
 
 Version 1:\
 Created: Tuesday, May 23, 2023, 10:07:16 AM\
