@@ -9,6 +9,10 @@ Version 2:\
 Created: ‎Friday, ‎July ‎14, ‎2023, ‏‎10:36:53 AM\
 Last Modified: ‎Saturday, ‎July ‎15, ‎2023, ‏‎7:50:08 AM
 
+Using isprime():\
+Created: Friday, ‎July ‎14, ‎2023, ‏‎11:07:10 AM\
+Last Modified: ‎Sunday, ‎July ‎16, ‎2023, ‏‎9:19:54 PM
+
 Version 3:‎\
 Created: Saturday, ‎July ‎15, ‎2023, ‏‎7:48:23 AM\
 Last Updated: ‎Sunday, ‎July ‎16, ‎2023, ‏‎8:03:33 AM
