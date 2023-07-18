@@ -33,7 +33,7 @@ Version 7:‎\
 Created: ‎Monday, ‎July ‎17, ‎2023, ‏‎2:58:39 PM\
 Last Updated: ‎‎Monday, ‎July ‎17, ‎2023, ‏‎4:06:58 PM
 
-Using Prmes:\
+Using primes():\
 Created: ‎Monday, ‎July ‎17, ‎2023, ‏‎8:04:19 PM\
 Last Updated: Monday, ‎July ‎17, ‎2023, ‏‎8:04:34 PM
 
