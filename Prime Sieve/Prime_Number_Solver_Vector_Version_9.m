@@ -10,7 +10,7 @@ isPrime = true(1, ceil(max / 2));
 
 for i = 3:2:stoppingPoint
     if(isPrime((i + 1) / 2))
-        isPrime(((i^2 + 1) / 2):i:length(isPrime)) = false;
+        isPrime((1.5 * i + 0.5):i:length(isPrime)) = false;
     end
 end
 numbers = find(isPrime) * 2 - 1;
